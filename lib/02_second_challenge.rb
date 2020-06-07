@@ -11,4 +11,5 @@ def second_challenge
       :matriarch => {},
       :hero => {}
       :heroine_friends => []
+    }
 }
